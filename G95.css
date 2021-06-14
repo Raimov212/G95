@@ -1,0 +1,47 @@
+.navbar{
+    display: flex;
+    background-color: #0D263B;
+    justify-content: space-between;
+}
+.nav-1{
+    display: flex;
+    align-items: center;
+    padding: 21px 225px;
+}
+.Houzing{
+    font-family: Cerebri Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 32px;
+color: #FFFFFF;
+margin-left: 13px;
+}
+.nav-2{
+    display: flex;
+    align-items: center;
+    font-family: Cerebri Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 17px;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-right: 150px;
+}
+.nav-text{
+    margin-right: 30px;
+}
+.btn{
+    font-family: Cerebri Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 17px;
+text-transform: uppercase;
+color: #0061DF;
+padding: 15px 20px;
+border: none;
+background: #FFFFFF;
+border-radius: 3px;
+}
